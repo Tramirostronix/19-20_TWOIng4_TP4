@@ -1,6 +1,8 @@
 
 Gaetan Lajeune
 
+sources: https://expressjs.com/fr/starter/basic-routing.html
+
 # 19-20_TWOIng4_TP4 : API
 
 A lire impérativement avant de commencer quoi que ce soit, ce sont les règles que vous devrez appliquer tout au long du semestre:
@@ -44,17 +46,17 @@ Afin de récupérer ces informations vous utiliserez l'api suivante http://www.o
 **Vous devrez tester vos requêtes à l'aide de POSTMAN**
 
 ​
-### STEP 1: Get started
+### STEP 1: Get started (done)
 ​
 Utilisez express-generator pour initier votre tp
 ​
-### STEP 2: Requêtes CRUD
+### STEP 2: Requêtes CRUD (done)
 
 
-1. Créer un nouveau fichier dans le repertoire routes
-2. Déclarez votre nouvelle route dans le fichier app.js
-3. Dans votre nouveau fichier de route, créer les routes CRUD.
-4. Pour l'instant nous gerons la base de donnée en utilisant uniquement un ID et le nom du film.
+1. Créer un nouveau fichier dans le repertoire routes (done)
+2. Déclarez votre nouvelle route dans le fichier app.js (done)
+3. Dans votre nouveau fichier de route, créer les routes CRUD. (done)
+4. Pour l'instant nous gerons la base de donnée en utilisant uniquement un ID et le nom du film. (done)
 ​
 ### Step 3: Requêtes API Externe
 ​
