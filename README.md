@@ -62,9 +62,9 @@ Utilisez express-generator pour initier votre tp
 ​
 **Pré-requis:**
 ​
-1. Creer une clé API: http://bit.ly/2GOS5Tc
+1. Creer une clé API: http://bit.ly/2GOS5Tc (done)
 ​
-2. Tester votre clé: http://www.omdbapi.com/?t=inception&apikey=VOTRECLEAPI
+2. Tester votre clé: http://www.omdbapi.com/?t=inception&apikey=VOTRECLEAPI (done)
 
 **Remplir la base de donnée avec des données supplémentaires**
 
