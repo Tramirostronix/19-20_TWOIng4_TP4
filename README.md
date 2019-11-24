@@ -1,8 +1,10 @@
 
 Gaetan Lajeune
 
-sources: https://expressjs.com/fr/starter/basic-routing.html
+Les routes marchent mais pas l'API je n'ai pas compris.
 
+sources: https://expressjs.com/fr/starter/basic-routing.html
+         https://www.youtube.com/watch?v=NE2Uf41Z4Cw
 # 19-20_TWOIng4_TP4 : API
 
 A lire impérativement avant de commencer quoi que ce soit, ce sont les règles que vous devrez appliquer tout au long du semestre:
